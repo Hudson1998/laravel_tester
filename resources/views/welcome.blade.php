@@ -128,5 +128,8 @@
                 </div>
             </div>
         </div>
+        <div>
+            <a href="{{ url('/teste') }}">teste</a>
+        </div>
     </body>
 </html>
